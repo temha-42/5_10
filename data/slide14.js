@@ -1,0 +1,3 @@
+(function(){var loadHandler=window['sl_{DE5326CD-FBED-4568-B495-9B72CB1AAAA0}'];loadHandler&&loadHandler(13, '<div id="spr0_916f7"><div id="spr1_916f7" class="kern slide"><img id="img1_916f7" src="data/img1.png" width="960px" height="540px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_916f7" class="kern slide"><div id="spr3_916f7" style="left:-0px;"><img id="img0_916f7" src="data/img15.png" width="960" height="542" alt="metin içeren bir resim\
+\
+Açıklama otomatik olarak oluşturuldu" style="left:0px;top:0.145px;"/></div></div></div>', '{"s":[]}');})();
